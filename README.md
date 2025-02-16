@@ -4,24 +4,14 @@
 
 - the different data types
 - how to choose the correct test
+- understand the assumptions of linear regression
 - more
 
 # Homework
 
 TSA_Task
 
-- Exercise 7
 - Bonus task?
-
-Exercises in linear regression
-
-- Exercise 2.3
-
----
-
-- Exercise 3.1
-- Exercise 3.2
-- Exercise 3.3
 
 ## Notes
 
