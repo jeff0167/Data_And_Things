@@ -5,6 +5,8 @@
 - the different data types
 - how to choose the correct test
 - understand the assumptions of linear regression
+- What is predict proba?
+- Exercises in classification 2, lots of questions about scalar
 - more
 
 # Homework
@@ -12,6 +14,15 @@
 TSA_Task
 
 - Bonus task?
+
+Exercises In Classification 1
+
+- needs refactoring,
+- maybe add confusion matrixes to same plot
+
+Exercises In Classification 2
+
+- 1.8 (Optional)
 
 ## Notes
 
