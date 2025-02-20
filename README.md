@@ -24,6 +24,13 @@ Exercises In Classification 2
 
 - 1.8 (Optional)
 
+pdm
+
+- Find the file on laptop
+- add scree plot to variation plot
+- refactor
+- upload
+
 ## Notes
 
 ---
