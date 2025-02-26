@@ -1,0 +1,3 @@
+Index(['Lot Area', 'Overall Cond', 'Year Built', 'Gr Liv Area',
+       'TotRms AbvGrd', 'Mo Sold', 'Yr Sold', 'SalePrice'],
+      dtype='object')
