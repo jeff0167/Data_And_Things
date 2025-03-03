@@ -26,15 +26,19 @@ Exercises In Classification 2
 - 1.8 (Optional)
 
 pdm_task
+
 - might need a review
 
 MLOPS exercises
+
 - might need a review
 - also should have mlflow
 
 mlflow_task
 
 ## Notes
+
+- np convolve is really slow, use scipy.signal.fftconvolve instead
 
 ---
 
