@@ -7,6 +7,7 @@
 - understand the assumptions of linear regression
 - What is predict proba?
 - Exercises in classification 2, lots of questions about scalar
+- Understand data drift
 - more
 
 # Homework
@@ -25,7 +26,13 @@ Exercises In Classification 2
 - 1.8 (Optional)
 
 pdm_task
-- might need a review 
+- might need a review
+
+MLOPS exercises
+- might need a review
+- also should have mlflow
+
+mlflow_task
 
 ## Notes
 

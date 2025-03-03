@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Bruger/Desktop/HomeWork/MS_ComputerScience/2.%20Semester/Data_%26_Things/Notebooks%20data/Data_And_Things/mlruns/933195703750319467/a1095c2d39694ca8abbe9fac991111a7/artifacts
+deleted_time: 1740932420358
 end_time: 1740734646628
 entry_point_name: ''
 experiment_id: '933195703750319467'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a1095c2d39694ca8abbe9fac991111a7
 run_name: handsome-robin-984
 run_uuid: a1095c2d39694ca8abbe9fac991111a7

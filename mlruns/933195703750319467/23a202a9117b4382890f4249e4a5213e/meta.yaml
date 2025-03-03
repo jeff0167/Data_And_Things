@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Bruger/Desktop/HomeWork/MS_ComputerScience/2.%20Semester/Data_%26_Things/Notebooks%20data/Data_And_Things/mlruns/933195703750319467/23a202a9117b4382890f4249e4a5213e/artifacts
+deleted_time: 1740932420361
 end_time: 1740568026129
 entry_point_name: ''
 experiment_id: '933195703750319467'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 23a202a9117b4382890f4249e4a5213e
 run_name: marvelous-eel-537
 run_uuid: 23a202a9117b4382890f4249e4a5213e

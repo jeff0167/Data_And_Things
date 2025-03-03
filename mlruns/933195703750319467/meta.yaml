@@ -1,4 +1,5 @@
-artifact_location: file:///C:/Users/Bruger/Desktop/HomeWork/MS_ComputerScience/2.%20Semester/Data_%26_Things/Notebooks%20data/Data_And_Things/mlruns/933195703750319467
+#artifact_location: file:///C:/Users/Bruger/Desktop/HomeWork/MS_ComputerScience/2.%20Semester/Data_%26_Things/Notebooks%20data/Data_And_Things/mlruns/933195703750319467
+artifact_location: file:///C:/Users/Bobby/Desktop/HomeWork/MS_ComputerScience/2.%20Semester/Data_%26_Things/Notebooks%20data/Data_And_Things/mlruns/933195703750319467
 creation_time: 1740566877307
 experiment_id: '933195703750319467'
 last_update_time: 1740566877307

@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Bruger/Desktop/HomeWork/MS_ComputerScience/2.%20Semester/Data_%26_Things/Notebooks%20data/Data_And_Things/mlruns/933195703750319467/273e8dc9fb0642f1b6102b2e5bb347cd/artifacts
+deleted_time: 1740932420363
 end_time: 1740567981880
 entry_point_name: ''
 experiment_id: '933195703750319467'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 273e8dc9fb0642f1b6102b2e5bb347cd
 run_name: zealous-shoat-938
 run_uuid: 273e8dc9fb0642f1b6102b2e5bb347cd

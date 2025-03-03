@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Bruger/Desktop/HomeWork/MS_ComputerScience/2.%20Semester/Data_%26_Things/Notebooks%20data/Data_And_Things/mlruns/933195703750319467/9529b2cd116e4a559953c35b5aa73b63/artifacts
+deleted_time: 1740932420365
 end_time: 1740730398755
 entry_point_name: ''
 experiment_id: '933195703750319467'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9529b2cd116e4a559953c35b5aa73b63
 run_name: powerful-sheep-163
 run_uuid: 9529b2cd116e4a559953c35b5aa73b63

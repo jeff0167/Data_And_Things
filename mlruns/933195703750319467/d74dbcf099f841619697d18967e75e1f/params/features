@@ -1,0 +1,10 @@
+Index(['Lot Area', 'Overall Cond', 'Year Built', 'Gr Liv Area',
+       'TotRms AbvGrd', 'Mo Sold', 'Yr Sold', 'SalePrice', 'BType_2fmCon',
+       'BType_Duplex', 'BType_Twnhs', 'BType_TwnhsE', 'Nbh_Blueste',
+       'Nbh_BrDale', 'Nbh_BrkSide', 'Nbh_ClearCr', 'Nbh_CollgCr',
+       'Nbh_Crawfor', 'Nbh_Edwards', 'Nbh_Gilbert', 'Nbh_Greens',
+       'Nbh_GrnHill', 'Nbh_IDOTRR', 'Nbh_Landmrk', 'Nbh_MeadowV',
+       'Nbh_Mitchel', 'Nbh_NAmes', 'Nbh_NPkVill', 'Nbh_NWAmes', 'Nbh_NoRidge',
+       'Nbh_NridgHt', 'Nbh_OldTown', 'Nbh_SWISU', 'Nbh_Sawyer', 'Nbh_SawyerW',
+       'Nbh_Somerst', 'Nbh_StoneBr', 'Nbh_Timber', 'Nbh_Veenker'],
+      dtype='object')
