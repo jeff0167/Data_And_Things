@@ -10,6 +10,7 @@
 - Understand data drift
 - shap, no categorial data?
 - more
+- research grid_search = GridSearchCV(estimator=rf, param_grid=param_grid, cv=5, scoring='accuracy', verbose=1)
 
 - time series, the last 2 weeks are the last test, should not train on the whole time series, it's 5+ years, not neccessary
 
