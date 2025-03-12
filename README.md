@@ -8,7 +8,22 @@
 - What is predict proba?
 - Exercises in classification 2, lots of questions about scalar
 - Understand data drift
+- shap, no categorial data?
 - more
+
+- time series, the last 2 weeks are the last test, should not train on the whole time series, it's 5+ years, not neccessary
+
+## To hand in
+- completed
+-- 1(EDA)
+---
+- to do
+- 2
+- 3
+- 4
+- 5
+- 6
+-...
 
 # Homework
 
@@ -52,7 +67,7 @@ If inference is the goal a inflexible learning method could be desirable, like s
 
 ## Parametric vs non-Parametric learning methods
 
-Parametric learning methods: simnple and tries to find the best learning model by changing parameters of a given function, like linear regression
+Parametric learning methods: simple and tries to find the best learning model by changing parameters of a given function, like linear regression
 doesn't need a lot of data
 
 non-Parametric learning methods: tries different learning methods to find the best learning model, which is more expenisve to run and requires more data
