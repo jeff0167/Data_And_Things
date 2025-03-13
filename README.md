@@ -3,12 +3,14 @@
 ## To research and understand
 
 - the different data types
-- how to choose the correct test
+- how to choose the correct test(comparison of groups.ipynb)
 - understand the assumptions of linear regression
 - What is predict proba?
 - Exercises in classification 2, lots of questions about scalar
 - Understand data drift
 - shap, no categorial data?
+- look at lambda
+- look at transform (chapter 10 in book)
 - more
 - research grid_search = GridSearchCV(estimator=rf, param_grid=param_grid, cv=5, scoring='accuracy', verbose=1)
 
@@ -16,7 +18,9 @@
 
 ## To hand in
 - completed
--- 1(EDA)
+- 1(EDA)
+- 2(DE_task) might need to be cleaned of step 1-6
+- 
 ---
 - to do
 - 2
@@ -24,7 +28,14 @@
 - 4
 - 5
 - 6
--...
+- 7
+- 8
+- 9
+- 10
+- 11
+- 12
+- 13
+- 14
 
 # Homework
 
