@@ -18,24 +18,22 @@
 
 ## To hand in
 - completed
-- 1(EDA)
-- 2(DE_task) might need to be cleaned of step 1-6
-- 
+- 1 (Exercises in DT and EDA)
+- 2 (DE_task) might need to be cleaned of step 1-6
+- 3 (Exercises in statistics)
+- 4 (Exercises in linear regression)
+- 6 (Exercises in classification)
 ---
 - to do
-- 2
-- 3
-- 4
-- 5
-- 6
-- 7
-- 8
-- 9
-- 10
-- 11
-- 12
-- 13
-- 14
+- 5 (Unsure about validation as was said, it is done the same way in the TSA example)
+- 7 (review)
+- 8 (review)
+- 9 (still in progress)
+- 10 (review)
+- 11 (review)
+- 12 (review)
+- 13 (review)
+- 14 (review)
 
 # Homework
 
