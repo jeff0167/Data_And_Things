@@ -23,17 +23,17 @@
 - 3 (Exercises in statistics)
 - 4 (Exercises in linear regression)
 - 6 (Exercises in classification)
+- 10 (Exercises in recommender systems)
 ---
 - to do
 - 5 (Unsure about validation as was said, it is done the same way in the TSA example)
-- 7 (review)
+- 7 (run mqtt again, with adjusted values)
 - 8 (review)
-- 9 (still in progress)
-- 10 (review)
+- 9 (still in progress, need hyper params)
 - 11 (review)
 - 12 (review)
-- 13 (review)
-- 14 (review)
+- 13 (run at home, explain)
+- 14 (trasnform true negative)
 
 # Homework
 
