@@ -23,17 +23,17 @@
 - 3 (Exercises in statistics)
 - 4 (Exercises in linear regression)
 - 6 (Exercises in classification)
+- 7 (MQTT_Task)
 - 8 (Exercises in clustering)
 - 9 (mlflow & MLOps) DONT EVER RUN ME AGAIN
 - 10 (Exercises in recommender systems)
 - 11 (Exercises in neural network and deep learning 2)
+- 12 (rag_task)
+- 14 (Exercise in fairness in machine learning)
 ---
 - to do
 - 5 (Unsure about validation as was said, it is done the same way in the TSA example)
-- 7 (run mqtt again, with adjusted values)
-- 12 (review)
 - 13 (run at home, explain)
-- 14 (trasnform true negative)
 
 # Homework
 
