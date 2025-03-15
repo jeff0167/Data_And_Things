@@ -35,7 +35,7 @@
 - 14 (Exercise in fairness in machine learning)
 ---
 - to do
-- 13 (run at home, again, explain)
+- 13 (explain)
 
 # Homework
 
