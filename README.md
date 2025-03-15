@@ -11,6 +11,8 @@
 - shap, no categorial data?
 - look at lambda
 - look at transform (chapter 10 in book)
+- what is predict_proba
+- what does this do: [: , 0]?
 - more
 - research grid_search = GridSearchCV(estimator=rf, param_grid=param_grid, cv=5, scoring='accuracy', verbose=1)
 
