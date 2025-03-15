@@ -22,6 +22,7 @@
 - 2 (DE_task)
 - 3 (Exercises in statistics)
 - 4 (Exercises in linear regression)
+- 5 (TSA_Task)
 - 6 (Exercises in classification)
 - 7 (MQTT_Task)
 - 8 (Exercises in clustering)
@@ -32,8 +33,7 @@
 - 14 (Exercise in fairness in machine learning)
 ---
 - to do
-- 5 (Unsure about validation as was said, it is done the same way in the TSA example)
-- 13 (run at home, explain)
+- 13 (run at home, again, explain)
 
 # Homework
 
