@@ -19,18 +19,18 @@
 ## To hand in
 - completed
 - 1 (Exercises in DT and EDA)
-- 2 (DE_task) might need to be cleaned of step 1-6
+- 2 (DE_task)
 - 3 (Exercises in statistics)
 - 4 (Exercises in linear regression)
 - 6 (Exercises in classification)
+- 8 (Exercises in clustering)
+- 9 (mlflow & MLOps) DONT EVER RUN ME AGAIN
 - 10 (Exercises in recommender systems)
+- 11 (Exercises in neural network and deep learning 2)
 ---
 - to do
 - 5 (Unsure about validation as was said, it is done the same way in the TSA example)
 - 7 (run mqtt again, with adjusted values)
-- 8 (review)
-- 9 (still in progress, need hyper params)
-- 11 (review)
 - 12 (review)
 - 13 (run at home, explain)
 - 14 (trasnform true negative)
