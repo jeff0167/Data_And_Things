@@ -16,19 +16,6 @@
 - more
 - research grid_search = GridSearchCV(estimator=rf, param_grid=param_grid, cv=5, scoring='accuracy', verbose=1)
 
-- time series, the last 2 weeks are the last test, should not train on the whole time series, it's 5+ years, not neccessary
-
-
-Cleaned
-- DE_task
-- Exercises in classification l
-- Exercises in clustering
-- Exercises in DT and EDA
-- Exercises in fairness
-- Exercises in linear regression
-
-- rag_task
-
 ## To hand in
 - completed
 - 1 (Exercises in DT and EDA)
