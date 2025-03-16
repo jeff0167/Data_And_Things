@@ -18,6 +18,17 @@
 
 - time series, the last 2 weeks are the last test, should not train on the whole time series, it's 5+ years, not neccessary
 
+
+Cleaned
+- DE_task
+- Exercises in classification l
+- Exercises in clustering
+- Exercises in DT and EDA
+- Exercises in fairness
+- Exercises in linear regression
+
+- rag_task
+
 ## To hand in
 - completed
 - 1 (Exercises in DT and EDA)
