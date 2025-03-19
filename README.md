@@ -21,6 +21,20 @@
 - more
 - research grid_search = GridSearchCV(estimator=rf, param_grid=param_grid, cv=5, scoring='accuracy', verbose=1)
 
+
+
+- for linear regression add the notes back
+- 
+
+Data lake:
+    A vast, centralized repository that allows you to store all your structured, semi-structured, and unstructured data at any scale.
+    Stores raw, unprocessed data from various sources.
+    It stores data in its native format.
+
+Data warehouse:
+    A repository of structured, filtered, and transformed data, specifically designed for querying and analysis.
+    It focuses on storing data that has been processed for specific business purposes.
+
 ## To hand in
 - completed
 - 1 (Exercises in DT and EDA)
