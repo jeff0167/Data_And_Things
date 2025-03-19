@@ -14,6 +14,8 @@
 - what does this do: [: , 0]? all from first dimension, on second dimension select first row/column
 - loss function
 - cost function
+- apply v transform
+- look at fairnes in machine learning again
 - check assumptions problems of linear regression(Original)
 - more
 - research grid_search = GridSearchCV(estimator=rf, param_grid=param_grid, cv=5, scoring='accuracy', verbose=1)
@@ -66,6 +68,10 @@ mlflow_task
 ## Notes
 
 - np convolve is really slow, use scipy.signal.fftconvolve instead
+- recommender systems
+- simple, ranked/popular movies
+- content, similar movies base on one movie
+- collaborative, movies other similar users have watched
 
 ---
 
@@ -93,3 +99,9 @@ More flexable less bias
 
 "When a given method yields a small training MSE but a large test MSE, we are
 said to be overfitting the data." (An introduction to statistical learning, page 30)
+
+
+## hacks
+- zoom in, set x interval to look at
+- plt.xlim(0, 60)  # Set the x-axis limits
+- plt.xticks(range(0, 61, 10))  # Set x-ticks every 10 units
