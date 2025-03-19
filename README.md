@@ -17,6 +17,7 @@
 - apply v transform
 - look at fairnes in machine learning again
 - check assumptions problems of linear regression(Original)
+- ALLOWED ALL HJÆLPE MIDLER, CAN ADD STUFF TO THE CODE
 - more
 - research grid_search = GridSearchCV(estimator=rf, param_grid=param_grid, cv=5, scoring='accuracy', verbose=1)
 
