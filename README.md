@@ -8,11 +8,13 @@
 - What is predict proba?
 - Exercises in classification 2, lots of questions about scalar
 - Understand data drift
-- shap, no categorial data?
 - look at lambda?
 - look at transform (chapter 10 in book)
 - what is predict_proba?
 - what does this do: [: , 0]? all from first dimension, on second dimension select first row/column
+- loss function
+- cost function
+- check assumptions problems of linear regression(Original)
 - more
 - research grid_search = GridSearchCV(estimator=rf, param_grid=param_grid, cv=5, scoring='accuracy', verbose=1)
 
