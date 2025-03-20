@@ -21,10 +21,15 @@
 - more
 - research grid_search = GridSearchCV(estimator=rf, param_grid=param_grid, cv=5, scoring='accuracy', verbose=1)
 
+###### tp fn   tp + fn  precision, how many we get predict right ratio        tp + fp   sensitivity        accuracy, how many we hit(predict) correctly tp & tn, hit the target
+###### fp tn   fp + tn  recall,    how many we predict false ratio            fp + tn   speicificity       f1, a score for all of it, kinda
 
 
-- for linear regression add the notes back
-- 
+the difference between data sets is called variance
+so when seing difference between training and test it's variance
+
+bias is on the training set, the inability to capture the true relationship
+low bias fits fell(prop overfit), high bias(underfit) fits bad on the data, like a line that tries to capture a curve
 
 Data lake:
     A vast, centralized repository that allows you to store all your structured, semi-structured, and unstructured data at any scale.
@@ -49,36 +54,8 @@ Data warehouse:
 - 10 (Exercises in recommender systems)
 - 11 (Exercises in neural network and deep learning 2)
 - 12 (rag_task)
-- 14 (Exercise in fairness in machine learning)
----
-- to do
 - 13 (explain)
-
-# Homework
-
-TSA_Task
-
-- Bonus task?
-
-Exercises In Classification 1
-
-- needs refactoring,
-- maybe add confusion matrixes to same plot
-
-Exercises In Classification 2
-
-- 1.8 (Optional)
-
-pdm_task
-
-- might need a review
-
-MLOPS exercises
-
-- might need a review
-- also should have mlflow
-
-mlflow_task
+- 14 (Exercise in fairness in machine learning)
 
 ## Notes
 
